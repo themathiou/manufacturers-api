@@ -1,6 +1,6 @@
 [{
   "manufacturerId": "samsung",
-  "category": "smartphones",
+  "category": "phones",
   "models": [
     {
       "title": "Galaxy S21 FE 5G",
@@ -42,7 +42,7 @@
       "title": "Galaxy S21 Ultra 5G Enterprise Edition",
       "id": "galaxys21ultra5genterpriseedition",
       "link": "/uk/smartphones/galaxy-s21-ultra-5g/",
-      "price": ""
+      "price": "From £32.48/mo  for 36 mos at 0% APR or £1,169.00"
     },
     {
       "title": "Galaxy S21 5G Enterprise Edition",
@@ -74,8 +74,8 @@
       "price": "From £8.48/mo  for 36 mos at 0% APR or £305.00"
     },
     {
-      "title": "49\" CRG9 Dual-QHD Curved Monitor",
-      "id": "49crg9dualqhdcurvedmonitor",
+      "title": "49\" CRG9 Dual-QHD Curved Odyssey Gaming Monitor",
+      "id": "49crg9dualqhdcurvedodysseygamingmonitor",
       "link": "/uk/monitors/gaming/odyssey-crg9-49-inch-120hz-freesync-curved-lc49rg90ssrxxu/#benefits",
       "price": "From £22.20/mo  for 36 mos at 0% APR or £799.00RRP: £1,099.00Save £300.00"
     },
@@ -86,20 +86,20 @@
       "price": "From £18.95/mo  for 36 mos at 0% APR or £682.00"
     },
     {
-      "title": "27\" G50A QHD Odyssey 165Hz Gaming Monitor",
-      "id": "27g50aqhdodyssey165hzgamingmonitor",
+      "title": "27\" G50A QHD 165Hz Odyssey Gaming Monitor",
+      "id": "27g50aqhd165hzodysseygamingmonitor",
       "link": "/uk/monitors/gaming/odyssey-g50a-27-inch-ips---165hz-1ms-ls27ag500nuxxu/#benefits",
       "price": "From £12.48/mo  for 36 mos at 0% APR or £449.00"
     },
     {
-      "title": "24\" CRG5 Full HD Curved Gaming Monitor",
-      "id": "24crg5fullhdcurvedgamingmonitor",
+      "title": "24\" CRG50 FHD, 240Hz Curved Odyssey Gaming Monitor",
+      "id": "24crg50fhd240hzcurvedodysseygamingmonitor",
       "link": "/uk/monitors/gaming/odyssey-crg5-24-inch-144hz-freesync-curved-lc24rg50fqrxxu/#benefits",
       "price": "£179.00"
     },
     {
-      "title": "34\" G55T UWQHD Curved Gaming Monitor",
-      "id": "34g55tuwqhdcurvedgamingmonitor",
+      "title": "34\" G55T UWQHD, 165Hz Curved Odyssey Gaming Monitor",
+      "id": "34g55tuwqhd165hzcurvedodysseygamingmonitor",
       "link": "/uk/monitors/gaming/odyssey-g5-34-inch-165hz-curved-ultra-wqhd-lc34g55twwrxxu/#benefits",
       "price": "From £12.37/mo  for 36 mos at 0% APR or £445.00"
     },
@@ -110,8 +110,8 @@
       "price": "From £27.75/mo  for 36 mos at 0% APR or £999.00RRP: £1,149.00Save £150.00"
     },
     {
-      "title": "28\" G70A UHD Odyssey 144Hz Gaming Monitor",
-      "id": "28g70auhdodyssey144hzgamingmonitor",
+      "title": "28\" G70A UHD, 144Hz, HDMI 2.1 Odyssey Gaming Monitor",
+      "id": "28g70auhd144hzhdmi21odysseygamingmonitor",
       "link": "/uk/monitors/gaming/odyssey-g70a-28-inch-uhd---144hz-1ms-ls28ag700nuxxu/#benefits",
       "price": "From £19.42/mo  for 36 mos at 0% APR or £699.00"
     },

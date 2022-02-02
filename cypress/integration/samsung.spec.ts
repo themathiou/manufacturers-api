@@ -1,7 +1,9 @@
 /// <reference types="cypress" />
 
 import { AVAILABLE_MANUFACTURERS } from '../../src/config/manufacturers.const';
-import { BaseProductModel, MANUFACTURER_ID } from '../../src/models/manufacturer.model';
+import {
+    BaseProductModel, CATEGORY_ID, MANUFACTURER_ID
+} from '../../src/models/manufacturer.model';
 
 Cypress.on('uncaught:exception', (err, runnable) => {
   return false;
@@ -10,6 +12,12 @@ Cypress.on('uncaught:exception', (err, runnable) => {
 context('Scrap Samsung website', () => {
   const { id: manId, siteUrl } = AVAILABLE_MANUFACTURERS.find(x => x.id === MANUFACTURER_ID.SAMSUNG);
   const mockDBFile = `src/mockDB/${manId}.json`;
+
+  // mapping object between categories of API and Samsung website categories.
+  const categoriesMap = {
+    'smartphones': CATEGORY_ID.PHONES,
+    'monitors': CATEGORY_ID.MONITORS,
+  }
 
   beforeEach(() => {
     cy.viewport(1900, 1200);
@@ -36,7 +44,8 @@ context('Scrap Samsung website', () => {
     // - click and visit category
     cy.get(`.footer-column__item:nth-child(2) ul li:nth-child(${categoryIndex}) a`).invoke('text')
       .then(text => {
-        data.category = text.replace('\n', '').trim().toLowerCase()
+        const categoryLabel = text.replace('\n', '').trim().toLowerCase()
+        data.category = categoriesMap[categoryLabel];
       })
     cy.get(`.footer-column__item:nth-child(2) ul li:nth-child(${categoryIndex}) a`).click();
 
