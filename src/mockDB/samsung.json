@@ -1,0 +1,131 @@
+[{
+  "manufacturerId": "samsung",
+  "category": "smartphones",
+  "models": [
+    {
+      "title": "Galaxy S21 FE 5G",
+      "id": "galaxys21fe5g",
+      "link": "/uk/smartphones/galaxy-s21-5g/galaxy-s21-fe-5g/",
+      "price": "From £19.42/mo  for 36 mos at 0% APR or £699.00"
+    },
+    {
+      "title": "Galaxy S21 Ultra 5G",
+      "id": "galaxys21ultra5g",
+      "link": "/uk/smartphones/galaxy-s/galaxy-s21-ultra-5g-phantomsilver-512gb-sm-g998bzsheua/",
+      "price": ""
+    },
+    {
+      "title": "Galaxy S21+ 5G",
+      "id": "galaxys215g",
+      "link": "/uk/smartphones/galaxy-s/galaxy-s21-5g-phantomviolet-256gb-sm-g996bzvgeua/",
+      "price": "From £27.75/mo  for 36 mos at 0% APR or £999.00"
+    },
+    {
+      "title": "Galaxy S21 5G",
+      "id": "galaxys215g",
+      "link": "/uk/smartphones/galaxy-s/galaxy-s21-5g-phantompink-256gb-sm-g991bzigeua/",
+      "price": "From £22.75/mo  for 36 mos at 0% APR or £819.00"
+    },
+    {
+      "title": "Galaxy S20 FE (SM-G780G)",
+      "id": "galaxys20fesmg780g",
+      "link": "/uk/smartphones/galaxy-s20/galaxy-s20-fe/",
+      "price": "From £13.87/mo  for 36 mos at 0% APR or £499.00"
+    },
+    {
+      "title": "Galaxy S9 Hybrid Sim 64GB (Certified Pre-Owned)",
+      "id": "galaxys9hybridsim64gbcertifiedpreowned",
+      "link": "/uk/smartphones/galaxy-s9/",
+      "price": ""
+    },
+    {
+      "title": "Galaxy S21 Ultra 5G Enterprise Edition",
+      "id": "galaxys21ultra5genterpriseedition",
+      "link": "/uk/smartphones/galaxy-s21-ultra-5g/",
+      "price": ""
+    },
+    {
+      "title": "Galaxy S21 5G Enterprise Edition",
+      "id": "galaxys215genterpriseedition",
+      "link": "/uk/smartphones/galaxy-s21-5g/",
+      "price": "From £21.92/mo  for 36 mos at 0% APR or £789.00"
+    }
+  ]
+},{
+  "manufacturerId": "samsung",
+  "category": "monitors",
+  "models": [
+    {
+      "title": "43\" M70A UHD, USB-C Smart Monitor with Speakers & Remote",
+      "id": "43m70auhdusbcsmartmonitorwithspeakersremote",
+      "link": "/uk/monitors/high-resolution/smart-m7-43-inch-smart-tv-apps-ls43am700uuxxu/#benefits",
+      "price": "From £13.31/mo  for 36 mos at 0% APR or £479.00"
+    },
+    {
+      "title": "32\" M50A Full HD Smart Monitor with Speakers & Remote",
+      "id": "32m50afullhdsmartmonitorwithspeakersremote",
+      "link": "/uk/monitors/smart/smart-m5-32-inch-ls32am500nrxxu/#benefits",
+      "price": "From £7.75/mo  for 36 mos at 0% APR or £279.00"
+    },
+    {
+      "title": "32\" M50A Full HD White Smart Monitor with Speakers & Remote",
+      "id": "32m50afullhdwhitesmartmonitorwithspeakersremote",
+      "link": "/uk/monitors/flat/smart-m5-32-inch-smart-tv-apps-white-ls32am501nuxxu/#benefits",
+      "price": "From £8.48/mo  for 36 mos at 0% APR or £305.00"
+    },
+    {
+      "title": "49\" CRG9 Dual-QHD Curved Monitor",
+      "id": "49crg9dualqhdcurvedmonitor",
+      "link": "/uk/monitors/gaming/odyssey-crg9-49-inch-120hz-freesync-curved-lc49rg90ssrxxu/#benefits",
+      "price": "From £22.20/mo  for 36 mos at 0% APR or £799.00RRP: £1,099.00Save £300.00"
+    },
+    {
+      "title": "34\" CJ791 UWQHD, Thunderbolt 3 Curved Monitor with Speakers",
+      "id": "34cj791uwqhdthunderbolt3curvedmonitorwithspeakers",
+      "link": "/uk/monitors/high-resolution/cj79-34-inch-ultra-wqhd-curved-thunderbolt-lc34j791wtrxxu/#benefits",
+      "price": "From £18.95/mo  for 36 mos at 0% APR or £682.00"
+    },
+    {
+      "title": "27\" G50A QHD Odyssey 165Hz Gaming Monitor",
+      "id": "27g50aqhdodyssey165hzgamingmonitor",
+      "link": "/uk/monitors/gaming/odyssey-g50a-27-inch-ips---165hz-1ms-ls27ag500nuxxu/#benefits",
+      "price": "From £12.48/mo  for 36 mos at 0% APR or £449.00"
+    },
+    {
+      "title": "24\" CRG5 Full HD Curved Gaming Monitor",
+      "id": "24crg5fullhdcurvedgamingmonitor",
+      "link": "/uk/monitors/gaming/odyssey-crg5-24-inch-144hz-freesync-curved-lc24rg50fqrxxu/#benefits",
+      "price": "£179.00"
+    },
+    {
+      "title": "34\" G55T UWQHD Curved Gaming Monitor",
+      "id": "34g55tuwqhdcurvedgamingmonitor",
+      "link": "/uk/monitors/gaming/odyssey-g5-34-inch-165hz-curved-ultra-wqhd-lc34g55twwrxxu/#benefits",
+      "price": "From £12.37/mo  for 36 mos at 0% APR or £445.00"
+    },
+    {
+      "title": "49\" G95T Dual-QHD Curved Gaming Monitor",
+      "id": "49g95tdualqhdcurvedgamingmonitor",
+      "link": "/uk/monitors/gaming/odyssey-g9-49-inch-240hz-1ms-curved-lc49g95tssrxxu/#benefits",
+      "price": "From £27.75/mo  for 36 mos at 0% APR or £999.00RRP: £1,149.00Save £150.00"
+    },
+    {
+      "title": "28\" G70A UHD Odyssey 144Hz Gaming Monitor",
+      "id": "28g70auhdodyssey144hzgamingmonitor",
+      "link": "/uk/monitors/gaming/odyssey-g70a-28-inch-uhd---144hz-1ms-ls28ag700nuxxu/#benefits",
+      "price": "From £19.42/mo  for 36 mos at 0% APR or £699.00"
+    },
+    {
+      "title": "32\" G32A FHD, 165Hz Odyssey Gaming Monitor",
+      "id": "32g32afhd165hzodysseygamingmonitor",
+      "link": "/uk/monitors/gaming/odyssey-g32a-g3-32-inch-165hz-freesync-ls32ag320nuxxu/#benefits",
+      "price": "From £8.31/mo  for 36 mos at 0% APR or £299.00"
+    },
+    {
+      "title": "49\" Odyssey Neo G9 DQHD Quantum Mini-LED Gaming Monitor",
+      "id": "49odysseyneog9dqhdquantumminiledgamingmonitor",
+      "link": "/uk/monitors/gaming/odyssey-neo-g9-g95na-49-inch-240hz-1ms-quantum-mini-led-ls49ag950nuxxu/#benefits",
+      "price": "From £48.59/mo  for 36 mos at 0% APR or £1,749.00"
+    }
+  ]
+}]

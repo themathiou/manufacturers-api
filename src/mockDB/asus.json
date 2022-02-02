@@ -1,0 +1,155 @@
+[{
+  "manufacturerId": "asus",
+  "category": "phones",
+  "models": [
+    {
+      "title": "Zenfone 8",
+      "id": "zenfone_8",
+      "link": "https://www.asus.com/uk/Mobile/Phones/ZenFone/Zenfone-8/",
+      "price": "£699.99"
+    },
+    {
+      "title": "Zenfone 8 Flip",
+      "id": "zenfone_8_flip",
+      "link": "https://www.asus.com/uk/Mobile/Phones/ZenFone/Zenfone-8-Flip/",
+      "price": "£699.99"
+    },
+    {
+      "title": "ZenFone 7",
+      "id": "zenfone_7",
+      "link": "https://www.asus.com/uk/Mobile/Phones/ZenFone/ZenFone-7/",
+      "price": "£599.99"
+    },
+    {
+      "title": "ZenFone 7 Pro",
+      "id": "zenfone_7_pro",
+      "link": "https://www.asus.com/uk/Mobile/Phones/ZenFone/ZenFone-7-Pro/",
+      "price": ""
+    }
+  ]
+},{
+  "manufacturerId": "asus",
+  "category": "monitors",
+  "models": [
+    {
+      "title": "ZenScreen MB16ACV",
+      "id": "zenscreen_mb16acv",
+      "link": "https://www.asus.com/uk/Displays-Desktops/Monitors/ZenScreen/ZenScreen-MB16ACV/",
+      "price": "£199.99"
+    },
+    {
+      "title": "ROG Strix XG16AHPE-W",
+      "id": "rog_strix_xg16ahpe-w",
+      "link": "https://rog.asus.com/uk/monitors/below-23-inches/rog-strix-xg16ahpe-w-model/",
+      "price": "£399.99"
+    },
+    {
+      "title": "ROG Strix XG16AHPE",
+      "id": "rog_strix_xg16ahpe",
+      "link": "https://rog.asus.com/uk/monitors/below-23-inches/rog-strix-xg16ahpe-model/",
+      "price": "£369.99"
+    },
+    {
+      "title": "ROG Strix XG16AHP",
+      "id": "rog_strix_xg16ahp",
+      "link": "https://rog.asus.com/uk/monitors/below-23-inches/rog-strix-xg16ahp-model/",
+      "price": "£429.99"
+    },
+    {
+      "title": "ProArt Display PA148CTV",
+      "id": "proart_display_pa148ctv",
+      "link": "https://www.asus.com/uk/Displays-Desktops/Monitors/ProArt/ProArt-Display-PA148CTV/",
+      "price": "£399.99"
+    },
+    {
+      "title": "ROG Strix XG16AHP-W",
+      "id": "rog_strix_xg16ahp-w",
+      "link": "https://rog.asus.com/uk/monitors/below-23-inches/rog-strix-xg16ahp-w-model/",
+      "price": "£449.99"
+    },
+    {
+      "title": "MB169C+",
+      "id": "mb169c+",
+      "link": "https://www.asus.com/uk/Displays-Desktops/Monitors/ZenScreen/MB169C-plus/",
+      "price": "£169.99"
+    },
+    {
+      "title": "MB169B+",
+      "id": "mb169b+",
+      "link": "https://www.asus.com/uk/Displays-Desktops/Monitors/ZenScreen/MB169BPlus/",
+      "price": "£179.99"
+    },
+    {
+      "title": "ZenScreen MB16AH",
+      "id": "zenscreen_mb16ah",
+      "link": "https://www.asus.com/uk/Displays-Desktops/Monitors/ZenScreen/ZenScreen-MB16AH/",
+      "price": "£289.99"
+    },
+    {
+      "title": "ZenScreen MB14AC",
+      "id": "zenscreen_mb14ac",
+      "link": "https://www.asus.com/uk/Displays-Desktops/Monitors/ZenScreen/ZenScreen-MB14AC/",
+      "price": "£209.99"
+    },
+    {
+      "title": "ROG Strix XG17AHPE",
+      "id": "rog_strix_xg17ahpe",
+      "link": "https://rog.asus.com/uk/monitors/below-23-inches/rog-strix-xg17ahpe-model/",
+      "price": "£549.99"
+    },
+    {
+      "title": "ROG STRIX XG17AHP",
+      "id": "rog_strix_xg17ahp",
+      "link": "https://rog.asus.com/uk/monitors/below-23-inches/rog-strix-xg17ahp-model/",
+      "price": "£549.99"
+    },
+    {
+      "title": "ZenScreen MB16ACE",
+      "id": "zenscreen_mb16ace",
+      "link": "https://www.asus.com/uk/Displays-Desktops/Monitors/ZenScreen/ZenScreen-MB16ACE/",
+      "price": "£209.99"
+    },
+    {
+      "title": "ZenScreen Go MB16AP",
+      "id": "zenscreen_go_mb16ap",
+      "link": "https://www.asus.com/uk/Displays-Desktops/Monitors/ZenScreen/ZenScreen-Go-MB16AP/",
+      "price": "£289.99"
+    },
+    {
+      "title": "ZenScreen MB16ACM",
+      "id": "zenscreen_mb16acm",
+      "link": "https://www.asus.com/uk/Displays-Desktops/Monitors/ZenScreen/ZenScreen-MB16ACM/",
+      "price": "£219.99"
+    },
+    {
+      "title": "ZenScreen Touch MB16AMT",
+      "id": "zenscreen_touch_mb16amt",
+      "link": "https://www.asus.com/uk/Displays-Desktops/Monitors/ZenScreen/ZenScreen-Touch-MB16AMT/",
+      "price": "£359.99"
+    },
+    {
+      "title": "ZenScreen Go MB16AHP",
+      "id": "zenscreen_go_mb16ahp",
+      "link": "https://www.asus.com/uk/Displays-Desktops/Monitors/ZenScreen/ZenScreen-Go-MB16AHP/",
+      "price": "£299.99"
+    },
+    {
+      "title": "ZenScreen MB16AC",
+      "id": "zenscreen_mb16ac",
+      "link": "https://www.asus.com/uk/Displays-Desktops/Monitors/ZenScreen/ZenScreen-MB16AC/",
+      "price": "£219.99"
+    },
+    {
+      "title": "MB168B",
+      "id": "mb168b",
+      "link": "https://www.asus.com/uk/Displays-Desktops/Monitors/ZenScreen/MB168B/",
+      "price": "£129.00"
+    },
+    {
+      "title": "VT168H",
+      "id": "vt168h",
+      "link": "https://www.asus.com/uk/Displays-Desktops/Monitors/Touch/VT168H/",
+      "price": ""
+    }
+  ]
+}]
